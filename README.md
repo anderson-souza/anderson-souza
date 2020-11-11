@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-Atualmente trabalho como desenvolvedor Fullstack Java + React.js. Também trabalho com desenvolvimento de Apps Mobile utilizando Flutter e dou suporte/manutenção em sistemas ~~legados~~ feitos em PHP. Gosto muito de estudar novas tecnologias e procuro sempre aperfeiçoar meus conhecimentos para aprimorar minha produtividade.
+Atualmente trabalho como desenvolvedor Fullstack Java + React.js. Também trabalho com desenvolvimento de Apps Mobile utilizando Flutter e dou suporte/manutenção em sistemas feitos em PHP. Gosto muito de estudar novas tecnologias e procuro sempre aperfeiçoar meus conhecimentos para aprimorar minha produtividade.
 
 Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/andersonpds/)
 
@@ -14,7 +14,7 @@ Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/anders
 
 ------
 
-![](https://img.shields.io/badge/Linguagem-Java-blue?style=for-the-badge&logo=java) ![](https://img.shields.io/badge/Linguagem-Typescript-blue?style=for-the-badge&logo=typescript)![](https://img.shields.io/badge/Linguagem-Javascript-blue?style=for-the-badge&logo=javascript)![](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/Mobile-Flutter-blue?style=for-the-badge&logo=flutter)![](https://img.shields.io/badge/Linguagem-PHP-orange?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/Linguagem-Java-blue?style=for-the-badge&logo=java) ![](https://img.shields.io/badge/Linguagem-Typescript-blue?style=for-the-badge&logo=typescript) ![](https://img.shields.io/badge/Linguagem-Javascript-blue?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/Mobile-Flutter-blue?style=for-the-badge&logo=flutter) ![](https://img.shields.io/badge/Linguagem-PHP-orange?style=for-the-badge&logo=php)
 
 
 

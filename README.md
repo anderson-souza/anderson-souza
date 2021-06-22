@@ -4,13 +4,13 @@
 
 ### Sobre mim
 
-Atualmente trabalho como desenvolvedor Fullstack Java + React.js. Também trabalho com desenvolvimento de Apps Mobile utilizando Flutter e dou suporte/manutenção em sistemas feitos em PHP. Gosto muito de estudar novas tecnologias e procuro sempre aperfeiçoar meus conhecimentos para aprimorar minha produtividade.
+Atualmente foco meus estudos e especialização em Java + Spring Boot. Como hobby, trabalho um pouco com desenvolvimento de Apps Mobile utilizando Flutter. Gosto muito de estudar novas tecnologias e procuro sempre aperfeiçoar meus conhecimentos para aprimorar minha produtividade.
 
 Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/andersonpds/)
 
 
 
-### Tecnologias que trabalho
+### Tecnologias que conheço
 
 ------
 
